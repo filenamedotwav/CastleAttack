@@ -195,7 +195,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Objective:
 
-    Three Projectiles or Less!'
+    Five Projectiles or Less!'
 --- !u!222 &321352722
 CanvasRenderer:
   m_ObjectHideFlags: 0
