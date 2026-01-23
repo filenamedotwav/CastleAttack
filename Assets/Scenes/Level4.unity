@@ -1047,7 +1047,7 @@ GameObject:
   - component: {fileID: 827581239}
   m_Layer: 0
   m_Name: Terrain
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -2210,7 +2210,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lose: {fileID: 513194692}
   gameOverScreen: 6
-  goal: 5
+  goal: 3
   explosion: {fileID: 100163152685847524, guid: 2b8974bb0d4442d4cb604baeb501cf19, type: 3}
 --- !u!1001 &1799401838
 PrefabInstance:
